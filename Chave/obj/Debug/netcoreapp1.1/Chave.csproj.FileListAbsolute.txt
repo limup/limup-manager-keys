@@ -1,0 +1,28 @@
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.deps.json
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.runtimeconfig.json
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.runtimeconfig.dev.json
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.dll
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.csprojResolveAssemblyReference.cache
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.AssemblyInfo.cs
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.pdb
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.dll
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.pdb
+C:\Users\Preto\Documents\Limup\2- Projetos\_Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.csproj.AssemblyReference.cache
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.AssemblyInfoInputs.cache
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.AssemblyInfo.cs
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.pdb
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\bower.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\bundleconfig.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.deps.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.runtimeconfig.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.runtimeconfig.dev.json
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.dll
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\bin\Debug\netcoreapp1.1\Chave.pdb
+C:\Users\limup\OneDrive\Projects\Limup\Visual Studio 2017\Gerenciador\Chave\obj\Debug\netcoreapp1.1\Chave.genruntimeconfig.cache

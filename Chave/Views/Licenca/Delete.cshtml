@@ -1,0 +1,53 @@
+@model Chave.Models.ChaveViewModels.LicencaViewModels
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>LicencaViewModels</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <input type="hidden" asp-for="Id" />
+        <dt>
+            @Html.DisplayNameFor(model => model.Chave)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Chave)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Dispositivo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Dispositivo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Plataforma)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Plataforma)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DataLicenca)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DataLicenca)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Empresa)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Empresa.Nome)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>
